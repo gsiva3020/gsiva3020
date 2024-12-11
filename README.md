@@ -1,80 +1,56 @@
-# 👨‍💻 Shiva Krishna Gundamalla
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">I'm Shiva Krishna Gundamalla</h1>
+<h4 align="center">Master's in Data Science @Florida Atlantic University</h4>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/shivakrishna30) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/gsiva3020)
+### I have technical expertise in:
+* DevOps Engineering
+* Cloud Infrastructure (AWS)
+* CI/CD Pipeline Automation
+* Infrastructure as Code (IaC)
+* Kubernetes and Container Orchestration
 
-Highly motivated and results-driven **DevOps Engineer** with over three years of hands-on experience in architecting and maintaining robust infrastructure solutions. Adept at leveraging cutting-edge DevOps tools and cloud technologies to drive innovation, enhance operational efficiency, and ensure seamless scalability for mission-critical systems.
+👉 [My Online Portfolio](https://github.com/gsiva3020)
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/> </a>
+<a href="https://jfrog.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-ar21.svg" alt="jfrog" width="40" height="40"/> </a>
+</p>
 
-## 💡 Core Competencies
+### Professional Experience:
+#### Tata Consultancy Services | Software Engineer
+- **Key Achievements:**
+  - Designed and maintained CI/CD pipelines using Jenkins, GitLab, and ArgoCD.
+  - Managed containerized applications with Docker and Kubernetes.
+  - Automated infrastructure provisioning with Terraform and Helm.
+  - Implemented disaster recovery solutions using Velero.
 
-### DevOps Toolchain Expertise
-- **Continuous Integration/Delivery:** Jenkins, Git, GitHub, GitLab, Argo CD
-- **Containerization & Orchestration:** Docker, Kubernetes, Helm
-- **Infrastructure as Code (IaC):** Terraform
-- **Artifact Management:** JFrog
-- **Agile Collaboration:** Jira
-- **Backup & Disaster Recovery:** Velero
+- **Notable Projects:**
+  - **GE Healthcare Migration:** Migrated legacy applications to AWS, enhancing scalability and performance.
+  - **Verizon SRE Infrastructure:** Developed and optimized Site Reliability Engineering solutions.
 
-### Cloud Infrastructure Specialization
-- **AWS Services:** VPC, Subnets, IAM, EC2, S3, EFS, Lambda, API Gateway, CloudWatch, CloudTrail, Cognito, Kinesis, ALB, NLB, KMS
-- **Kubernetes Orchestration:** EKS
-- **Event Messaging:** SNS
+### Certifications:
+- AWS Certified DevOps Engineer - Professional
+- AWS Certified Cloud Practitioner
 
-### System Administration and Networking
-- Expertise in Linux (Ubuntu, CentOS) systems administration
-- Proficient with **AWS CLI** and **EKS CLI** for efficient resource orchestration
-- Advanced scripting capabilities: **Shell**, **Groovy**
-- Comprehensive API development and testing using **Swagger** and **Postman**
+#### Education:
+- **Master's in Data Science** @ Florida Atlantic University (2024)
+- **Bachelor of Technology** @ Institute of Aeronautical Engineering, Hyderabad (2021)
 
----
+#### Connect with Me:
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/shivakrishna30)
+[<img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/material-outlined/24/000000/github.png" />](https://github.com/gsiva3020)
 
-## 🎓 Certifications
-
-- **AWS Certified DevOps Engineer - Professional**
-- **AWS Certified Cloud Practitioner**
-
----
-
-## 🛠️ Professional Experience
-
-### Tata Consultancy Services | Software Engineer
-**December 2021 - July 2024**
-
-#### Highlights:
-- Streamlined development workflows by configuring and managing **CI/CD pipelines** using Jenkins and GitLab.
-- Achieved scalability and high availability by deploying **containerized applications** with Docker and Kubernetes.
-- Automated complex infrastructure provisioning tasks leveraging **Terraform** and **Helm**.
-- Designed secure and scalable AWS architectures utilizing services such as **IAM, CloudWatch, Lambda,** and **API Gateway**.
-- Enhanced disaster resilience by implementing robust backup solutions using **Velero**.
-- Optimized operational processes through customized **Shell scripting** and **Groovy**-based automation.
-
-#### Key Projects:
-- **GE Healthcare Migration Project (Dec 2021 - Dec 2022):** Successfully migrated legacy systems to AWS, enhancing security and system performance.
-- **Verizon SRE Project (Jan 2023 - July 2024):** Engineered and maintained Site Reliability Engineering (SRE) infrastructure, delivering improved system reliability and scalability.
-
----
-
-## 📚 Education
-
-- **Master of Science in Data Science**
-  Florida Atlantic University, Florida (2024)
-
-- **Bachelor of Technology in Engineering**
-  Institute of Aeronautical Engineering, Hyderabad (2021)
-
----
-
-## 🔭 Featured GitHub Projects
-
-### 📦 DevOps Automation Suite
-A comprehensive repository of scripts and configurations to streamline DevOps workflows, including CI/CD pipelines, infrastructure provisioning, and monitoring.
-
-### 🖥️ AWS Deployment Frameworks
-IaC templates and best practices for deploying secure, scalable AWS environments tailored to enterprise needs.
-
----
-
-## 🌐 Explore and Connect
-📫 **Email:** gundamalla.shivakrishna@gmail.com  
-Feel free to browse my repositories for insights into how I integrate DevOps methodologies with real-world challenges.
+<br>
+<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsiva3020&label=Profile%20views&color=0e75b6&style=flat" alt="gsiva3020" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsiva3020&show_icons=true&locale=en&layout=compact" alt="gsiva3020" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsiva3020&show_icons=true&locale=en" alt="gsiva3020" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gsiva3020&" alt="gsiva3020" /></p>
